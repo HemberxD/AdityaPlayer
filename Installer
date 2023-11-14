@@ -4,8 +4,6 @@ asyncio
 dnspython
 ffmpeg-python
 future
-git+https://github.com/pyrogram/pyrogram@master
-git+https://github.com/MrAdityaXD/yt-dl@master
 motor
 pillow
 psutil
@@ -16,3 +14,5 @@ tgcrypto
 wget
 youtube-search
 youtube-search-python
+yt-dlp
+pyrogram==1.4.16
